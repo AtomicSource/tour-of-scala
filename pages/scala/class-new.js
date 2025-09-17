@@ -9,13 +9,13 @@ export const date = "2020-07-31T17:00:32"
 const scastieId = "orcSDcLjRwCuRuRke8sm5w"
 
 const mainInfoBox = <>
-  <p>Scala is a language that join both worlds “Functional Programming” and “Object Oriented”.</p>
-  <p>We talked a little bit about “Functional Programming” in the previous SKBs and today we are going to introduce the basics for “Object Oriented” : the classes and more specifically how to create an instance of a class.</p>
+  <p>Scala is a language that joins both of the “Functional Programming” and “Object Oriented” worlds.</p>
+  <p>We talked a little bit about “Functional Programming” in the previous SKBs and today we are going to introduce the basics of “Object Oriented Programming” : the classes and more specifically how to create an instance of a class.</p>
   <p>We will be diving a bit more into the theory after the exercise.</p>
 </>
 
 const detailedInfoBox = <>
-  <p>A <code>class</code> is a collection of functions that can be reused. This collection is created with parameters and that will make the <code>instance</code> of the class behave differently.</p>
+  <p>A <code>class</code> is a collection of functions that can be reused. This collection is created with parameters, which makes each <code>instance</code> of a class behave differently.</p>
   <p>In a lot of programming books, you will see a <code>class</code> being described as a “blueprint”. And using this “blueprint”, you are able to “instantiate”, or build, an <code>object</code>.</p>
   <p>The way to build a class in Scala is using the keyword <code>new</code>.</p>
   <p>
