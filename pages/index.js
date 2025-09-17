@@ -24,7 +24,7 @@ export default function Index({ allLessons }) {
                 <ContentContainer>
                     {/* <!-- TODO: Better description ! --> */}
                     <p>Here, you can slowly build up knowledge about Scala.</p>
-                    <p>Each exercises are designed to be done in a very short amount of time and learn a little bit each day, just to
+                    <p>Each exercise is designed to be done in a very short amount of time, learning a little bit each day, just to
                         create a routine.</p>
                     <p>Each episode will teach you about one specific thing and rely on the previous exercises to be solved.</p>
                     <p>Hope you are going to enjoy it! It is designed for anyone to learn Scala from scratch and slowly
