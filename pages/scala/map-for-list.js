@@ -10,12 +10,12 @@ const scastieId = "LxP34WAsQyq5gV62cPatkg"
 
 const mainInfoBox = <>
   <p>Ready for our first dive into Functional Programming? Don't worry, we are going through this adventure together and I will make sure you don't get lost.</p>
-  <p>This is the moment where you might hear about Monad, Monoid, Functors, but we are not doing any of that today. Today we are just learning about a function from the standard library called <code>map</code>. We can put fancy names on it later.</p>
+  <p>This is usually the moment where you might hear about Monad, Monoid, Functors, but we are not doing any of that today. Today we are just learning about a function from the standard library called <code>map</code>. We can put fancy names on it later.</p>
 
 </>
 
 const detailedInfoBox = <>
-  <p>You might have understood that <code>map</code> is actually just like a <code>for each</code> from other languages.</p><p>If you don't know about it from other language, not to worry.</p>
+  <p>You might have understood that <code>map</code> is actually just like a <code>for each</code> from other languages.</p><p>If you don't know about it from another language, not to worry.</p>
 
   <p><code>map</code> will just apply a function to each element of the list and return the list with the new values.</p>
 
