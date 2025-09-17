@@ -15,7 +15,7 @@ const mainInfoBox = <>
 const detailedInfoBox = <>
   <p>We assigned a value to the Value <code>a</code>.</p><ul><li>The line 3 is the value</li><li> The line 5 is doing a sum of the integer <code>2</code> and the value <code>a</code></li><li>
     On line 7, we see <code>assert</code> which perform a test if the sum above is equal to <code>8</code></li></ul><p></p>
-  <p>Also, important things to keep in mind, <code>val</code> are immutable. In Scala, if you want a mutable variable, you would have to use the keyword <code>var</code>.</p>
+  <p>Also, an important thing to keep in mind: <code>val</code> are immutable. In Scala, if you want a mutable variable, you would have to use the keyword <code>var</code>.</p>
 </>
 
 const description = "Scala Knowledge Bits - Scala Values - Periodic exercise to learn bits of knowledge about Scala. Scala Values here."
