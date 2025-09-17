@@ -11,12 +11,12 @@ const scastieId = "fzBPg5UiSwydGL2dSWKx3A"
 const mainInfoBox = <>
   <p><code>Option</code> is the way in Scala to handle <code>null</code>.
   </p>
-  <p>It allows to encapsulate the concept of “<i>is this value defined</i>” or “<i>does this variable contains a value</i>“.</p>
+  <p>It allows us to encapsulate the concept of “<i>is this value defined</i>” or “<i>does this variable contains a value</i>“.</p>
 </>
 
 const detailedInfoBox = <>
   <p>You might have guessed it on your own but the <code>isDefined</code> method will return <code>true</code> when the <code>Option</code> contains a value, and <code>isEmpty</code> returns <code>true</code> when the <code>Option</code> contains nothing.</p>
-  <p>We are going to learn, in later SKB, about<code>pattern matching</code> and <code>map</code>. It will allow us to modify the value contained in the <code>Option</code>.</p>
+  <p>We are going to learn, in later SKBs, about <code>pattern matching</code> and <code>map</code>. It will allow us to modify the value contained in the <code>Option</code>.</p>
 </>
 
 const description = "Scala Knowledge Bits - Scala Option - Periodic exercise to learn bits of knowledge about Scala. Scala Option here."
