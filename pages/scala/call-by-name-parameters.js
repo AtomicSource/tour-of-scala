@@ -17,7 +17,7 @@ const mainInfoBox = <>
 const detailedInfoBox = <>
   <p>Did you notice the <code>=&gt; Int</code> in the parameter list?</p>
   <p>You can understand it as if it was <code>() =&gt; Int</code>, meaning a function that will return <code>Int</code> when called.</p>
-  <p>The content of the parameter will not be evaluated until needed. Be aware that it will be re-evaluated for each time it is called. But we will look into it in a more advanced SKB later on.</p>
+  <p>The content of the parameter will not be evaluated until needed. Be aware that it will be re-evaluated each time it is called. But we will look into it in a more advanced SKB later on.</p>
 </>
 
 const description = "Scala Knowledge Bits - Scala Call-by-name - Periodic exercise to learn bits of knowledge about Scala. Scala Call-by-name here."
