@@ -9,13 +9,13 @@ export const date = "2020-07-20T17:00:01"
 const scastieId = "ZDXmAr6wQ4OTcBSHfJCFmw"
 
 const mainInfoBox = <>
-  <p>In programming language, a method does some operations and return a result.</p>
+  <p>In programming languages, a method does some operations and returns a result.</p>
   <p>In most use cases, the method will take parameters to perform the operation.</p>
 </>
 
 const detailedInfoBox = <>
   <p>You have learned that <code>a</code> and <code>b</code> are parameters of the method <code>add</code>. You can use them as normal values but only within the method. You can extend the context to several lines with <code>&#123;...&#125;</code>.</p><p>
-    In some other programming language, like Java, you need the keyword <code>return</code> to make the method return a value but in Scala, the last line of the method is what is being returned automatically.</p>
+    In some other programming languages, like Java, you need to use the keyword <code>return</code> to make a method return a value but in Scala, the last line of the method is what is being returned automatically.</p>
 </>
 
 const description = "Scala Knowledge Bits - Scala Method with Arguments- Periodic exercise to learn bits of knowledge about Scala. Scala Method with Arguments here."
