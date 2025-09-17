@@ -25,9 +25,9 @@ const detailedInfoBox = <>
     <li><b>Object</b>: An instance of a class built with specific parameters.</li>
     <li><b>Instantiate</b>: The action of creating an object from a class.</li>
     <li><code>new</code>: The keyword used in Scala to instantiate a class and make an object.</li>
-    <li><b>Field</b>: The <code>val</code> contained in the <code>class</code>.</li>
-    <li><b>Method</b>: The <code>def</code> (functions) contained in the <code>class</code>.</li>
-    <li><b>Member</b>: A term to describe both <code>field</code> and <code>method</code>.</li>
+    <li><b>Field</b>: A <code>val</code> contained in a <code>class</code>.</li>
+    <li><b>Method</b>: A <code>def</code> (function) contained in a <code>class</code>.</li>
+    <li><b>Member</b>: A term to describe both <code>field</code>s and <code>method</code>s.</li>
   </ul>
   <p></p>
 </>
