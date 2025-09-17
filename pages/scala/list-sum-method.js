@@ -14,7 +14,7 @@ const mainInfoBox = <>
 
 const detailedInfoBox = <>
   <p><code>sum</code> will go through each element of the List and add all the elements together.</p>
-  <p>It is actually a shortcut for <code>list.fold(0)( _ + _ )</code>. It might look strange syntax right now but SKB will help you become an expert soon.
+  <p>It is actually a shortcut for <code>list.fold(0)( _ + _ )</code>. It might look like strange syntax right now but these SKBs will help you become an expert soon.
   </p>
 </>
 
