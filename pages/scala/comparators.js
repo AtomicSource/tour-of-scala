@@ -11,7 +11,7 @@ const scastieId = "iBb50DUtT0WYfzlVbkPomg"
 
 const mainInfoBox = <>
   <p>A few new concepts are needed for this SKB.</p>
-<p>First, what is a <code>Boolean</code>? A <code>Boolean</code> can only take two values: <code>true</code> or <code>false</code>. It is the result of a mathematical question. For instance, is 2 less than 5 (<code>2 &lt; 5</code>), it would returns "yes" (<code>true</code>).</p>
+<p>First, what is a <code>Boolean</code>? A <code>Boolean</code> can only take two values: <code>true</code> or <code>false</code>. It is the result of a mathematical question. For instance, &quot;is 2 less than 5 (<code>2 &lt; 5</code>)?&quot; This would return "yes" (<code>true</code>).</p>
 <p>And from previous SKB, you might have noticed that <code>assert</code> tests if what is inside is <code>true</code>.</p>
 
 
